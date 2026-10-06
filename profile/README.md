@@ -16,11 +16,12 @@
 
 <br />
 
+[서비스 바로가기](https://pop-pick-web.vercel.app)
+
+<br />
+
 <img src="https://raw.githubusercontent.com/pop-pick/.github/main/profile/assets/preview.png" alt="팝픽 화면" width="100%">
 
 <br />
-<br />
-
-[서비스 바로가기](https://pop-pick-web.vercel.app)
 
 </div>
